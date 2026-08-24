@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // =================================================================
     const songs = [
         {
-            title: "Heavenly Jumpstyld",
+            title: "Heavenly Jumpstyle",
             artist: "INNXCENCE",
             src: "song.mp3",
             lyrics: 
